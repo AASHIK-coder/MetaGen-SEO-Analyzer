@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meta Description Generator</title>
+</head>
+<body>
+    <h1>Meta Description Generator</h1>
+    <form method="POST">
+        <label for="input_words">Enter input words (comma-separated):</label>
+        <input type="text" name="input_words" id="input_words">
+        <button type="submit">Generate Meta Description</button>
+    </form>
+    {% if meta_description %}
+    <h2>Generated Meta Description:</h2>
+    <p>{{ meta_description }}</p>
+    {% endif %}
+</body>
+</html>
