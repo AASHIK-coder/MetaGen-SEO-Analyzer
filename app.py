@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 app = Flask(__name__)
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = "your api key"
 
 # Initialize the OpenAI API client
 openai.api_key = api_key
