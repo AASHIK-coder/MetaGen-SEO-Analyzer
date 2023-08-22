@@ -12,3 +12,5 @@ Explore search trend analysis to understand the popularity of keywords.
 User-friendly interface with real-time visualization using Seaborn.
 Enhance your webpage's discoverability and engagement with crafted meta descriptions.
 This repository provides a fully functional Flask application that leverages OpenAI's GPT-3 for dynamic content creation and Seaborn for advanced data visualization. Elevate your content's online presence and ensure a captivating user experience with the MetaGen SEO Analyzer.
+
+<img width="914" alt="image" src="https://github.com/AASHIK-coder/MetaGen-SEO-Analyzer/assets/108812879/86d75904-cc3c-463a-a8ef-0a5e216de377">
